@@ -1,0 +1,291 @@
+2017-01-29 16:20:55 Add_producto2: Array
+(
+    [id] => 7
+)
+
+2017-01-29 16:21:16 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 10
+)
+
+2017-01-29 16:22:40 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 10
+)
+
+2017-01-29 16:22:55 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 10
+)
+
+2017-01-29 16:22:59 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 10
+)
+
+2017-01-29 16:23:27 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 10
+)
+
+2017-01-29 16:23:27 Add_producto2: Array
+(
+    [0] => Array
+        (
+            [configuraciones] => Array
+                (
+                    [id] => 1
+                    [credito] => 1
+                    [inventario] => 1
+                    [max_usuarios] => 0
+                    [iva] => 1
+                    [valor_iva] => 4
+                    [img_logo] => img/logo/20170103040439.png
+                    [telefono] => 3136401079
+                    [direccion] => Cra 30 #12 A-13
+                    [celular] => 4962044
+                    [terminos_y_condiciones] => 
+                    [razon_social] => APPVAL SAS
+                    [nit] => 9023-433433
+                )
+
+        )
+
+)
+
+2017-01-29 16:34:57 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 
+)
+
+2017-01-29 16:39:40 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 5
+)
+
+2017-01-29 16:39:40 Add_producto2: Array
+(
+    [Producto] => Array
+        (
+            [id] => 7
+            [nombre] => Samsung Galaxy J5 Prime
+            [descripcion] => <ul><li>Procesador 2.2 G</li><li>Camara 13 MP</li><li>Memoria Interna 16 GB</li><li>Pantalla 5.5 P&#39;</li><li>Android 6.6</li></ul>
+            [precio_compra] => 650000
+            [precio_venta] => 750000
+            [inventario] => 10
+            [stock_minimo] => 3
+            [proveedore_id] => 5
+            [created] => 2017-01-27
+            [modified] => 2017-01-27
+            [estado] => 1
+        )
+
+    [Proveedore] => Array
+        (
+            [id] => 5
+            [nombre] => Samsung
+            [identificacion] => 123456
+            [telefono] => 3136401079
+            [celular] => 3136401080
+            [email] => sansung@prueba.com
+            [persona_contacto] => Ninguno
+            [direccion] => Cra 30 #12A-13
+            [created] => 2017-01-27
+            [modified] => 2017-01-29
+            [estado] => 0
+            [observaciones] => 
+        )
+
+    [Venta] => Array
+        (
+        )
+
+)
+
+2017-01-29 16:43:21 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 10
+)
+
+2017-01-29 16:43:21 Add_producto2: Array
+(
+    [Producto] => Array
+        (
+            [id] => 7
+            [nombre] => Samsung Galaxy J5 Prime
+            [descripcion] => <ul><li>Procesador 2.2 G</li><li>Camara 13 MP</li><li>Memoria Interna 16 GB</li><li>Pantalla 5.5 P&#39;</li><li>Android 6.6</li></ul>
+            [precio_compra] => 650000
+            [precio_venta] => 750000
+            [inventario] => 10
+            [stock_minimo] => 3
+            [proveedore_id] => 5
+            [created] => 2017-01-27
+            [modified] => 2017-01-27
+            [estado] => 1
+        )
+
+    [Proveedore] => Array
+        (
+            [id] => 5
+            [nombre] => Samsung
+            [identificacion] => 123456
+            [telefono] => 3136401079
+            [celular] => 3136401080
+            [email] => sansung@prueba.com
+            [persona_contacto] => Ninguno
+            [direccion] => Cra 30 #12A-13
+            [created] => 2017-01-27
+            [modified] => 2017-01-29
+            [estado] => 0
+            [observaciones] => 
+        )
+
+    [Venta] => Array
+        (
+        )
+
+)
+
+2017-01-29 16:43:43 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 10
+)
+
+2017-01-29 16:43:43 Add_producto2: Array
+(
+    [Producto] => Array
+        (
+            [id] => 7
+            [nombre] => Samsung Galaxy J5 Prime
+            [descripcion] => <ul><li>Procesador 2.2 G</li><li>Camara 13 MP</li><li>Memoria Interna 16 GB</li><li>Pantalla 5.5 P&#39;</li><li>Android 6.6</li></ul>
+            [precio_compra] => 650000
+            [precio_venta] => 750000
+            [inventario] => 10
+            [stock_minimo] => 3
+            [proveedore_id] => 5
+            [created] => 2017-01-27
+            [modified] => 2017-01-27
+            [estado] => 1
+        )
+
+    [Proveedore] => Array
+        (
+            [id] => 5
+            [nombre] => Samsung
+            [identificacion] => 123456
+            [telefono] => 3136401079
+            [celular] => 3136401080
+            [email] => sansung@prueba.com
+            [persona_contacto] => Ninguno
+            [direccion] => Cra 30 #12A-13
+            [created] => 2017-01-27
+            [modified] => 2017-01-29
+            [estado] => 0
+            [observaciones] => 
+        )
+
+    [Venta] => Array
+        (
+        )
+
+)
+
+2017-01-29 16:45:43 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 10
+)
+
+2017-01-29 16:45:43 Add_producto2: Array
+(
+    [Producto] => Array
+        (
+            [id] => 7
+            [nombre] => Samsung Galaxy J5 Prime
+            [descripcion] => <ul><li>Procesador 2.2 G</li><li>Camara 13 MP</li><li>Memoria Interna 16 GB</li><li>Pantalla 5.5 P&#39;</li><li>Android 6.6</li></ul>
+            [precio_compra] => 650000
+            [precio_venta] => 750000
+            [inventario] => 10
+            [stock_minimo] => 3
+            [proveedore_id] => 5
+            [created] => 2017-01-27
+            [modified] => 2017-01-27
+            [estado] => 1
+        )
+
+    [Proveedore] => Array
+        (
+            [id] => 5
+            [nombre] => Samsung
+            [identificacion] => 123456
+            [telefono] => 3136401079
+            [celular] => 3136401080
+            [email] => sansung@prueba.com
+            [persona_contacto] => Ninguno
+            [direccion] => Cra 30 #12A-13
+            [created] => 2017-01-27
+            [modified] => 2017-01-29
+            [estado] => 0
+            [observaciones] => 
+        )
+
+    [Venta] => Array
+        (
+        )
+
+)
+
+2017-01-29 16:49:48 Add_producto2: Array
+(
+    [id] => 7
+    [cantidad] => 10
+)
+
+2017-01-29 16:49:48 Add_producto2: Array
+(
+    [Producto] => Array
+        (
+            [id] => 7
+            [nombre] => Samsung Galaxy J5 Prime
+            [descripcion] => <ul><li>Procesador 2.2 G</li><li>Camara 13 MP</li><li>Memoria Interna 16 GB</li><li>Pantalla 5.5 P&#39;</li><li>Android 6.6</li></ul>
+            [precio_compra] => 650000
+            [precio_venta] => 750000
+            [inventario] => 10
+            [stock_minimo] => 3
+            [proveedore_id] => 5
+            [created] => 2017-01-27
+            [modified] => 2017-01-27
+            [estado] => 1
+        )
+
+    [Proveedore] => Array
+        (
+            [id] => 5
+            [nombre] => Samsung
+            [identificacion] => 123456
+            [telefono] => 3136401079
+            [celular] => 3136401080
+            [email] => sansung@prueba.com
+            [persona_contacto] => Ninguno
+            [direccion] => Cra 30 #12A-13
+            [created] => 2017-01-27
+            [modified] => 2017-01-29
+            [estado] => 0
+            [observaciones] => 
+        )
+
+    [Venta] => Array
+        (
+        )
+
+)
+

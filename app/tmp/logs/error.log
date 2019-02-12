@@ -1,0 +1,3572 @@
+2017-02-27 14:01:58 Error: [NotFoundException] Página no encontrada
+Request URL: /STRATEGEE/ANALYZER/users/edit/3
+Stack Trace:
+#0 [internal function]: UsersController->edit('3')
+#1 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp3\htdocs\STRATEGEE\ANALYZER\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-27 14:08:18 Error: [NotFoundException] Página no encontrada
+Request URL: /STRATEGEE/ANALYZER/users/edit/3
+Stack Trace:
+#0 [internal function]: UsersController->edit('3')
+#1 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp3\htdocs\STRATEGEE\ANALYZER\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-27 14:08:43 Error: [NotFoundException] Página no encontrada
+Request URL: /STRATEGEE/ANALYZER/users/edit/3
+Stack Trace:
+#0 [internal function]: UsersController->edit('3')
+#1 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp3\htdocs\STRATEGEE\ANALYZER\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-27 14:13:30 Error: [NotFoundException] Página no encontrada
+Request URL: /STRATEGEE/ANALYZER/users/edit/3
+Stack Trace:
+#0 [internal function]: UsersController->edit('3')
+#1 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp3\htdocs\STRATEGEE\ANALYZER\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-27 14:13:56 Error: [NotFoundException] Página no encontrada
+Request URL: /STRATEGEE/ANALYZER/users/edit/3
+Stack Trace:
+#0 [internal function]: UsersController->edit('3')
+#1 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp3\htdocs\STRATEGEE\ANALYZER\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-27 14:36:56 Error: [NotFoundException] Análisis inválido
+Request URL: /STRATEGEE/ANALYZER/revisados_aliados/view/3
+Stack Trace:
+#0 [internal function]: RevisadosAliadosController->view('3')
+#1 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(RevisadosAliadosController), Array)
+#2 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RevisadosAliadosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp3\htdocs\STRATEGEE\ANALYZER\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-27 14:37:00 Error: [NotFoundException] Análisis inválido
+Request URL: /STRATEGEE/ANALYZER/revisados_aliados/view/3
+Stack Trace:
+#0 [internal function]: RevisadosAliadosController->view('3')
+#1 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(RevisadosAliadosController), Array)
+#2 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RevisadosAliadosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp3\htdocs\STRATEGEE\ANALYZER\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-27 14:37:45 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 220
+View::pluginSplit() - CORE\Cake\View\View.php, line 1019
+View::_getElementFileName() - CORE\Cake\View\View.php, line 1081
+View::element() - CORE\Cake\View\View.php, line 406
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 14:37:45 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 221
+View::pluginSplit() - CORE\Cake\View\View.php, line 1019
+View::_getElementFileName() - CORE\Cake\View\View.php, line 1081
+View::element() - CORE\Cake\View\View.php, line 406
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 14:37:45 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 220
+View::element() - CORE\Cake\View\View.php, line 412
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 14:37:45 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 221
+View::element() - CORE\Cake\View\View.php, line 412
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:20:28 Error: [NotFoundException] Página no encontrada
+Request URL: /STRATEGEE/ANALYZER/users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp3\htdocs\STRATEGEE\ANALYZER\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-27 15:44:15 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 220
+View::pluginSplit() - CORE\Cake\View\View.php, line 1019
+View::_getElementFileName() - CORE\Cake\View\View.php, line 1081
+View::element() - CORE\Cake\View\View.php, line 406
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:44:15 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 221
+View::pluginSplit() - CORE\Cake\View\View.php, line 1019
+View::_getElementFileName() - CORE\Cake\View\View.php, line 1081
+View::element() - CORE\Cake\View\View.php, line 406
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:44:15 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 220
+View::element() - CORE\Cake\View\View.php, line 412
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:44:15 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 221
+View::element() - CORE\Cake\View\View.php, line 412
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:45:06 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 220
+View::pluginSplit() - CORE\Cake\View\View.php, line 1019
+View::_getElementFileName() - CORE\Cake\View\View.php, line 1081
+View::element() - CORE\Cake\View\View.php, line 406
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:45:06 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 221
+View::pluginSplit() - CORE\Cake\View\View.php, line 1019
+View::_getElementFileName() - CORE\Cake\View\View.php, line 1081
+View::element() - CORE\Cake\View\View.php, line 406
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:45:06 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 220
+View::element() - CORE\Cake\View\View.php, line 412
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:45:06 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 221
+View::element() - CORE\Cake\View\View.php, line 412
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:45:48 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 220
+View::pluginSplit() - CORE\Cake\View\View.php, line 1019
+View::_getElementFileName() - CORE\Cake\View\View.php, line 1081
+View::element() - CORE\Cake\View\View.php, line 406
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:45:48 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 221
+View::pluginSplit() - CORE\Cake\View\View.php, line 1019
+View::_getElementFileName() - CORE\Cake\View\View.php, line 1081
+View::element() - CORE\Cake\View\View.php, line 406
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:45:48 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 220
+View::element() - CORE\Cake\View\View.php, line 412
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-02-27 15:45:48 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 221
+View::element() - CORE\Cake\View\View.php, line 412
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-03-14 14:17:58 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 220
+View::pluginSplit() - CORE\Cake\View\View.php, line 1019
+View::_getElementFileName() - CORE\Cake\View\View.php, line 1081
+View::element() - CORE\Cake\View\View.php, line 406
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-03-14 14:17:58 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 221
+View::pluginSplit() - CORE\Cake\View\View.php, line 1019
+View::_getElementFileName() - CORE\Cake\View\View.php, line 1081
+View::element() - CORE\Cake\View\View.php, line 406
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-03-14 14:17:58 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 220
+View::element() - CORE\Cake\View\View.php, line 412
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-03-14 14:17:58 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [C:\xampp3\htdocs\STRATEGEE\ANALYZER\lib\Cake\basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE\Cake\basics.php, line 221
+View::element() - CORE\Cake\View\View.php, line 412
+SessionHelper::flash() - CORE\Cake\View\Helper\SessionHelper.php, line 147
+include - APP\View\Layouts\default.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 931
+View::_render() - CORE\Cake\View\View.php, line 893
+View::renderLayout() - CORE\Cake\View\View.php, line 525
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 111
+
+2017-03-22 22:40:09 Error: [MissingControllerException] Controller class HomeController could not be found.
+Exception Attributes: array (
+  'class' => 'HomeController',
+  'plugin' => NULL,
+)
+Request URL: /STRATEGEE/ANALYZER/home
+Stack Trace:
+#0 C:\xampp3\htdocs\STRATEGEE\ANALYZER\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-04-13 22:53:29 Error: [MissingControllerException] Controller class HomeController could not be found.
+Exception Attributes: array (
+  'class' => 'HomeController',
+  'plugin' => NULL,
+)
+Request URL: /AnalyzerV3/home
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/AnalyzerV3/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-07-26 22:21:38 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [/Applications/XAMPP/xamppfiles/htdocs/AnalyzerV/lib/Cake/basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 220
+View::pluginSplit() - CORE/Cake/View/View.php, line 1019
+View::_getElementFileName() - CORE/Cake/View/View.php, line 1081
+View::element() - CORE/Cake/View/View.php, line 406
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 22:21:38 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [/Applications/XAMPP/xamppfiles/htdocs/AnalyzerV/lib/Cake/basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 221
+View::pluginSplit() - CORE/Cake/View/View.php, line 1019
+View::_getElementFileName() - CORE/Cake/View/View.php, line 1081
+View::element() - CORE/Cake/View/View.php, line 406
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 22:21:38 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [/Applications/XAMPP/xamppfiles/htdocs/AnalyzerV/lib/Cake/basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 220
+View::element() - CORE/Cake/View/View.php, line 412
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 22:21:38 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [/Applications/XAMPP/xamppfiles/htdocs/AnalyzerV/lib/Cake/basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 221
+View::element() - CORE/Cake/View/View.php, line 412
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 22:24:50 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [/Applications/XAMPP/xamppfiles/htdocs/AnalyzerV/lib/Cake/basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 220
+View::pluginSplit() - CORE/Cake/View/View.php, line 1019
+View::_getElementFileName() - CORE/Cake/View/View.php, line 1081
+View::element() - CORE/Cake/View/View.php, line 406
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 22:24:50 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [/Applications/XAMPP/xamppfiles/htdocs/AnalyzerV/lib/Cake/basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 221
+View::pluginSplit() - CORE/Cake/View/View.php, line 1019
+View::_getElementFileName() - CORE/Cake/View/View.php, line 1081
+View::element() - CORE/Cake/View/View.php, line 406
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 22:24:50 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [/Applications/XAMPP/xamppfiles/htdocs/AnalyzerV/lib/Cake/basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 220
+View::element() - CORE/Cake/View/View.php, line 412
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 22:24:50 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [/Applications/XAMPP/xamppfiles/htdocs/AnalyzerV/lib/Cake/basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 221
+View::element() - CORE/Cake/View/View.php, line 412
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 20:51:14 Error: [SocketException] Invalid email: "you@localhost"
+Request URL: /users/add
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(592): CakeEmail->_setEmail('_from', 'you@localhost', NULL)
+#1 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(364): CakeEmail->_setEmailSingle('_from', 'you@localhost', NULL, 'From requires o...')
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(1209): CakeEmail->from('you@localhost')
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(1093): CakeEmail->_applyConfig('default')
+#4 /home/strategee/analyzer.strategee.us/app/Controller/AppController.php(60): CakeEmail->config('default')
+#5 /home/strategee/analyzer.strategee.us/app/Controller/UsersController.php(81): AppController->sendMail(Array)
+#6 [internal function]: UsersController->add()
+#7 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2017-07-26 20:51:44 Error: [SocketException] Invalid email: "you@localhost"
+Request URL: /users/add
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(592): CakeEmail->_setEmail('_from', 'you@localhost', NULL)
+#1 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(364): CakeEmail->_setEmailSingle('_from', 'you@localhost', NULL, 'From requires o...')
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(1209): CakeEmail->from('you@localhost')
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(1093): CakeEmail->_applyConfig('default')
+#4 /home/strategee/analyzer.strategee.us/app/Controller/AppController.php(60): CakeEmail->config('default')
+#5 /home/strategee/analyzer.strategee.us/app/Controller/UsersController.php(81): AppController->sendMail(Array)
+#6 [internal function]: UsersController->add()
+#7 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2017-07-26 20:53:29 Error: [SocketException] Invalid email: "you@localhost"
+Request URL: /users/add
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(592): CakeEmail->_setEmail('_from', 'you@localhost', NULL)
+#1 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(364): CakeEmail->_setEmailSingle('_from', 'you@localhost', NULL, 'From requires o...')
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(1209): CakeEmail->from('you@localhost')
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(1093): CakeEmail->_applyConfig('default')
+#4 /home/strategee/analyzer.strategee.us/app/Controller/AppController.php(60): CakeEmail->config('default')
+#5 /home/strategee/analyzer.strategee.us/app/Controller/UsersController.php(81): AppController->sendMail(Array)
+#6 [internal function]: UsersController->add()
+#7 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2017-07-26 21:00:37 Error: [SocketException] Invalid email: "you@localhost"
+Request URL: /users/remember_password
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(592): CakeEmail->_setEmail('_from', 'you@localhost', NULL)
+#1 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(364): CakeEmail->_setEmailSingle('_from', 'you@localhost', NULL, 'From requires o...')
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(1209): CakeEmail->from('you@localhost')
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Network/Email/CakeEmail.php(1093): CakeEmail->_applyConfig('default')
+#4 /home/strategee/analyzer.strategee.us/app/Controller/AppController.php(60): CakeEmail->config('default')
+#5 /home/strategee/analyzer.strategee.us/app/Controller/UsersController.php(177): AppController->sendMail(Array)
+#6 [internal function]: UsersController->remember_password()
+#7 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#10 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2017-07-26 21:41:33 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [/home/strategee/analyzer.strategee.us/lib/Cake/basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 220
+View::pluginSplit() - CORE/Cake/View/View.php, line 1019
+View::_getElementFileName() - CORE/Cake/View/View.php, line 1081
+View::element() - CORE/Cake/View/View.php, line 406
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 21:41:33 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [/home/strategee/analyzer.strategee.us/lib/Cake/basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 221
+View::pluginSplit() - CORE/Cake/View/View.php, line 1019
+View::_getElementFileName() - CORE/Cake/View/View.php, line 1081
+View::element() - CORE/Cake/View/View.php, line 406
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 21:41:33 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [/home/strategee/analyzer.strategee.us/lib/Cake/basics.php, line 220]
+Trace:
+strpos - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 220
+View::element() - CORE/Cake/View/View.php, line 412
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-26 21:41:33 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [/home/strategee/analyzer.strategee.us/lib/Cake/basics.php, line 221]
+Trace:
+explode - [internal], line ??
+pluginSplit - CORE/Cake/basics.php, line 221
+View::element() - CORE/Cake/View/View.php, line 412
+SessionHelper::flash() - CORE/Cake/View/Helper/SessionHelper.php, line 147
+include - APP/View/Layouts/default.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 111
+
+2017-07-28 20:55:47 Error: [MissingControllerException] Controller class NoneController could not be found.
+Exception Attributes: array (
+  'class' => 'NoneController',
+  'plugin' => NULL,
+)
+Request URL: /None
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-07-29 12:56:04 Error: [MissingControllerException] Controller class Xmlrpc.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Xmlrpc.phpController',
+  'plugin' => NULL,
+)
+Request URL: /xmlrpc.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-07-30 04:27:09 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-07-31 10:15:14 Error: [MissingControllerException] Controller class Dump.sqlController could not be found.
+Exception Attributes: array (
+  'class' => 'Dump.sqlController',
+  'plugin' => NULL,
+)
+Request URL: /dump.sql
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-07-31 10:48:04 Error: [MissingControllerException] Controller class Db.sqlController could not be found.
+Exception Attributes: array (
+  'class' => 'Db.sqlController',
+  'plugin' => NULL,
+)
+Request URL: /db.sql
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-07-31 11:47:39 Error: [MissingControllerException] Controller class Sql.sqlController could not be found.
+Exception Attributes: array (
+  'class' => 'Sql.sqlController',
+  'plugin' => NULL,
+)
+Request URL: /sql.sql
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-07-31 12:21:57 Error: [MissingControllerException] Controller class Sql.tarController could not be found.
+Exception Attributes: array (
+  'class' => 'Sql.tarController',
+  'plugin' => NULL,
+)
+Request URL: /sql.tar
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-07-31 13:12:30 Error: [MissingControllerException] Controller class Db.sql.bz2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Db.sql.bz2Controller',
+  'plugin' => NULL,
+)
+Request URL: /db.sql.bz2
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-07-31 13:31:31 Error: [MissingControllerException] Controller class Dump.tarController could not be found.
+Exception Attributes: array (
+  'class' => 'Dump.tarController',
+  'plugin' => NULL,
+)
+Request URL: /dump.tar
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-07-31 14:44:03 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/tmp/mysql.sock\' (2)',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/strategee/analyzer.strategee.us/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(3288): ConnectionManager::getDataSource('default')
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(1107): Model->setDataSource('default')
+#4 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(3310): Model->setSource('users')
+#5 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(2750): Model->getDataSource()
+#6 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(2722): Model->_readDataSource('first', Array)
+#7 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Component/Auth/BaseAuthenticate.php(114): Model->find('first', Array)
+#8 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Component/Auth/FormAuthenticate.php(81): BaseAuthenticate->_findUser('deysonbejarano@...', '1234')
+#9 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Component/AuthComponent.php(754): FormAuthenticate->authenticate(Object(CakeRequest), Object(CakeResponse))
+#10 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Component/AuthComponent.php(601): AuthComponent->identify(Object(CakeRequest), Object(CakeResponse))
+#11 /home/strategee/analyzer.strategee.us/app/Controller/UsersController.php(27): AuthComponent->login()
+#12 [internal function]: UsersController->login()
+#13 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#14 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#15 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#16 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2017-07-31 14:44:09 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/tmp/mysql.sock\' (2)',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/strategee/analyzer.strategee.us/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(3288): ConnectionManager::getDataSource('default')
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(1107): Model->setDataSource('default')
+#4 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(3310): Model->setSource('users')
+#5 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(1318): Model->getDataSource()
+#6 /home/strategee/analyzer.strategee.us/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#7 /home/strategee/analyzer.strategee.us/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('User', 'fields')
+#8 /home/strategee/analyzer.strategee.us/app/View/Helper/CakeStrapFormHelper.php(19): FormHelper->create('User', Array)
+#9 /home/strategee/analyzer.strategee.us/app/View/Elements/form_login.ctp(7): CakeStrapFormHelper->create('User', Array)
+#10 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(931): include('/home/strategee...')
+#11 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(893): View->_evaluate('/home/strategee...', Array)
+#12 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(1191): View->_render('/home/strategee...', Array)
+#13 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(408): View->_renderElement('/home/strategee...', Array, Array)
+#14 /home/strategee/analyzer.strategee.us/app/View/Users/login.ctp(2): View->element('form_login')
+#15 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(931): include('/home/strategee...')
+#16 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(893): View->_evaluate('/home/strategee...', Array)
+#17 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(462): View->_render('/home/strategee...')
+#18 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#19 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#20 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#21 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#22 {main}
+2017-07-31 14:44:11 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/tmp/mysql.sock\' (2)',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/strategee/analyzer.strategee.us/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(3288): ConnectionManager::getDataSource('default')
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(1107): Model->setDataSource('default')
+#4 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(3310): Model->setSource('users')
+#5 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(1318): Model->getDataSource()
+#6 /home/strategee/analyzer.strategee.us/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#7 /home/strategee/analyzer.strategee.us/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('User', 'fields')
+#8 /home/strategee/analyzer.strategee.us/app/View/Helper/CakeStrapFormHelper.php(19): FormHelper->create('User', Array)
+#9 /home/strategee/analyzer.strategee.us/app/View/Elements/form_login.ctp(7): CakeStrapFormHelper->create('User', Array)
+#10 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(931): include('/home/strategee...')
+#11 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(893): View->_evaluate('/home/strategee...', Array)
+#12 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(1191): View->_render('/home/strategee...', Array)
+#13 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(408): View->_renderElement('/home/strategee...', Array, Array)
+#14 /home/strategee/analyzer.strategee.us/app/View/Users/login.ctp(2): View->element('form_login')
+#15 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(931): include('/home/strategee...')
+#16 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(893): View->_evaluate('/home/strategee...', Array)
+#17 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(462): View->_render('/home/strategee...')
+#18 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#19 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#20 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#21 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#22 {main}
+2017-07-31 14:44:16 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/tmp/mysql.sock\' (2)',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /home/strategee/analyzer.strategee.us/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(3288): ConnectionManager::getDataSource('default')
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(1107): Model->setDataSource('default')
+#4 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(3310): Model->setSource('users')
+#5 /home/strategee/analyzer.strategee.us/lib/Cake/Model/Model.php(1318): Model->getDataSource()
+#6 /home/strategee/analyzer.strategee.us/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#7 /home/strategee/analyzer.strategee.us/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('User', 'fields')
+#8 /home/strategee/analyzer.strategee.us/app/View/Helper/CakeStrapFormHelper.php(19): FormHelper->create('User', Array)
+#9 /home/strategee/analyzer.strategee.us/app/View/Elements/form_login.ctp(7): CakeStrapFormHelper->create('User', Array)
+#10 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(931): include('/home/strategee...')
+#11 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(893): View->_evaluate('/home/strategee...', Array)
+#12 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(1191): View->_render('/home/strategee...', Array)
+#13 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(408): View->_renderElement('/home/strategee...', Array, Array)
+#14 /home/strategee/analyzer.strategee.us/app/View/Users/login.ctp(2): View->element('form_login')
+#15 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(931): include('/home/strategee...')
+#16 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(893): View->_evaluate('/home/strategee...', Array)
+#17 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(462): View->_render('/home/strategee...')
+#18 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#19 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#20 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#21 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#22 {main}
+2017-08-01 05:18:09 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-01 05:18:09 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-01 05:23:08 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-01 05:33:40 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-01 05:43:18 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-01 07:41:10 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-01 12:07:11 Error: [MissingControllerException] Controller class Xmlrpc.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Xmlrpc.phpController',
+  'plugin' => NULL,
+)
+Request URL: /xmlrpc.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-01 14:18:20 Error: [MissingControllerException] Controller class Xmlrpc.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Xmlrpc.phpController',
+  'plugin' => NULL,
+)
+Request URL: /xmlrpc.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-02 04:27:10 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-02 12:11:55 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-02 17:50:58 Error: [MissingControllerException] Controller class Dump.sql.tgzController could not be found.
+Exception Attributes: array (
+  'class' => 'Dump.sql.tgzController',
+  'plugin' => NULL,
+)
+Request URL: /dump.sql.tgz
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-02 19:27:33 Error: [MissingControllerException] Controller class Dump.tgzController could not be found.
+Exception Attributes: array (
+  'class' => 'Dump.tgzController',
+  'plugin' => NULL,
+)
+Request URL: /dump.tgz
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-02 20:51:33 Error: [MissingControllerException] Controller class Dump.gzController could not be found.
+Exception Attributes: array (
+  'class' => 'Dump.gzController',
+  'plugin' => NULL,
+)
+Request URL: /dump.gz
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-02 22:11:30 Error: [MissingControllerException] Controller class Sql.zipController could not be found.
+Exception Attributes: array (
+  'class' => 'Sql.zipController',
+  'plugin' => NULL,
+)
+Request URL: /sql.zip
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-02 22:57:59 Error: [MissingControllerException] Controller class Dump.zipController could not be found.
+Exception Attributes: array (
+  'class' => 'Dump.zipController',
+  'plugin' => NULL,
+)
+Request URL: /dump.zip
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-02 23:43:36 Error: [MissingControllerException] Controller class 1.sqlController could not be found.
+Exception Attributes: array (
+  'class' => '1.sqlController',
+  'plugin' => NULL,
+)
+Request URL: /1.sql
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-03 01:14:32 Error: [MissingControllerException] Controller class Site.sqlController could not be found.
+Exception Attributes: array (
+  'class' => 'Site.sqlController',
+  'plugin' => NULL,
+)
+Request URL: /site.sql
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-03 05:24:17 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-03 05:24:17 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-03 05:24:17 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-03 05:25:40 Error: [MissingControllerException] Controller class Temp.sqlController could not be found.
+Exception Attributes: array (
+  'class' => 'Temp.sqlController',
+  'plugin' => NULL,
+)
+Request URL: /temp.sql
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-03 06:17:26 Error: [MissingControllerException] Controller class DbBackup.sqlController could not be found.
+Exception Attributes: array (
+  'class' => 'DbBackup.sqlController',
+  'plugin' => NULL,
+)
+Request URL: /db_backup.sql
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-03 06:20:17 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-03 06:51:33 Error: [MissingControllerException] Controller class Sql.gzController could not be found.
+Exception Attributes: array (
+  'class' => 'Sql.gzController',
+  'plugin' => NULL,
+)
+Request URL: /sql.gz
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-03 07:31:26 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-04 13:00:17 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-04 21:48:38 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-07 02:11:19 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-08 04:27:16 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-09 06:24:34 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-09 06:24:36 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-09 06:29:43 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-09 06:34:42 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-10 08:52:49 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-10 21:40:03 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-10 21:40:04 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-10 22:15:34 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-10 22:40:44 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-11 04:27:18 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-11 13:55:58 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-14 04:27:21 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-14 20:23:13 Error: [MethodNotAllowedException] Method Not Allowed
+Request URL: /resultados_aliados/delete/6
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/Controller/ResultadosAliadosController.php(59): CakeRequest->onlyAllow('post', 'delete')
+#1 [internal function]: ResultadosAliadosController->delete('6')
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ResultadosAliadosController), Array)
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#4 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(ResultadosAliadosController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-08-14 20:24:07 Error: [MethodNotAllowedException] Method Not Allowed
+Request URL: /resultados_aliados/delete/6
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/Controller/ResultadosAliadosController.php(59): CakeRequest->onlyAllow('post', 'delete')
+#1 [internal function]: ResultadosAliadosController->delete('6')
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ResultadosAliadosController), Array)
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#4 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(ResultadosAliadosController), Object(CakeRequest), Object(CakeResponse))
+#5 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-08-15 02:42:37 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-15 05:34:44 Error: [MissingControllerException] Controller class WpController could not be found.
+Exception Attributes: array (
+  'class' => 'WpController',
+  'plugin' => NULL,
+)
+Request URL: /wp
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-15 05:34:44 Error: [MissingControllerException] Controller class WORDPRESSController could not be found.
+Exception Attributes: array (
+  'class' => 'WORDPRESSController',
+  'plugin' => NULL,
+)
+Request URL: /WORDPRESS
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-15 05:34:44 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-15 05:34:44 Error: [MissingControllerException] Controller class WordpressController could not be found.
+Exception Attributes: array (
+  'class' => 'WordpressController',
+  'plugin' => NULL,
+)
+Request URL: /wordpress
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-16 12:17:55 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-16 12:37:13 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 04:10:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/img/boxed-bg.jpg
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 04:27:22 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 06:45:18 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 06:45:18 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 06:52:26 Error: [MissingControllerException] Controller class Wp-login.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-login.phpController',
+  'plugin' => NULL,
+)
+Request URL: /wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 06:52:27 Error: [MissingControllerException] Controller class Wp-adminController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-adminController',
+  'plugin' => NULL,
+)
+Request URL: /wp-admin/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 06:55:59 Error: [MissingControllerException] Controller class Admin.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin.phpController',
+  'plugin' => NULL,
+)
+Request URL: /admin.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 06:57:25 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 07:28:11 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 07:28:11 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 07:31:55 Error: [MissingControllerException] Controller class Wp-login.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-login.phpController',
+  'plugin' => NULL,
+)
+Request URL: /wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 07:31:55 Error: [MissingControllerException] Controller class Wp-adminController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-adminController',
+  'plugin' => NULL,
+)
+Request URL: /wp-admin/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 07:37:04 Error: [MissingControllerException] Controller class Admin.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin.phpController',
+  'plugin' => NULL,
+)
+Request URL: /admin.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 07:38:51 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 08:09:01 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 08:09:01 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 08:15:17 Error: [MissingControllerException] Controller class Wp-login.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-login.phpController',
+  'plugin' => NULL,
+)
+Request URL: /wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 08:15:17 Error: [MissingControllerException] Controller class Wp-adminController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-adminController',
+  'plugin' => NULL,
+)
+Request URL: /wp-admin/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 08:19:01 Error: [MissingControllerException] Controller class Admin.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin.phpController',
+  'plugin' => NULL,
+)
+Request URL: /admin.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 08:20:30 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 08:53:03 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 08:53:03 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 08:59:47 Error: [MissingControllerException] Controller class Wp-login.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-login.phpController',
+  'plugin' => NULL,
+)
+Request URL: /wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 08:59:47 Error: [MissingControllerException] Controller class Wp-adminController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-adminController',
+  'plugin' => NULL,
+)
+Request URL: /wp-admin/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 09:05:58 Error: [MissingControllerException] Controller class Admin.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin.phpController',
+  'plugin' => NULL,
+)
+Request URL: /admin.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 09:07:05 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 09:28:29 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 09:28:29 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 09:34:41 Error: [MissingControllerException] Controller class Wp-adminController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-adminController',
+  'plugin' => NULL,
+)
+Request URL: /wp-admin/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 09:39:50 Error: [MissingControllerException] Controller class Admin.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin.phpController',
+  'plugin' => NULL,
+)
+Request URL: /admin.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 09:40:58 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-17 18:11:50 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-18 07:15:49 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-18 22:33:01 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-18 22:33:01 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-18 22:53:31 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-18 22:56:17 Error: [MissingViewException] View file "/home/strategee/analyzer.strategee.us/app/View/RevisadosAliados/e_d_i_t.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/home/strategee/analyzer.strategee.us/app/View/RevisadosAliados/e_d_i_t.ctp',
+)
+Request URL: /revisados_aliados/EDIT/22
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/lib/Cake/View/View.php(459): View->_getViewFileName(NULL)
+#1 /home/strategee/analyzer.strategee.us/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /home/strategee/analyzer.strategee.us/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RevisadosAliadosController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-08-18 22:58:43 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-19 09:58:02 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-19 09:58:03 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-19 10:13:12 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-19 11:03:42 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 13:50:25 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 20:57:21 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 20:57:22 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 21:02:15 Error: [MissingControllerException] Controller class Wp-login.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-login.phpController',
+  'plugin' => NULL,
+)
+Request URL: /wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 21:02:16 Error: [MissingControllerException] Controller class Wp-adminController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-adminController',
+  'plugin' => NULL,
+)
+Request URL: /wp-admin/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 21:08:36 Error: [MissingControllerException] Controller class Admin.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin.phpController',
+  'plugin' => NULL,
+)
+Request URL: /admin.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 21:09:15 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 21:13:49 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 21:13:49 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 23:14:12 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 23:14:12 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 23:19:03 Error: [MissingControllerException] Controller class Wp-login.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-login.phpController',
+  'plugin' => NULL,
+)
+Request URL: /wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 23:19:03 Error: [MissingControllerException] Controller class Wp-adminController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-adminController',
+  'plugin' => NULL,
+)
+Request URL: /wp-admin/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 23:21:50 Error: [MissingControllerException] Controller class Admin.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin.phpController',
+  'plugin' => NULL,
+)
+Request URL: /admin.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 23:22:45 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 23:25:32 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-20 23:25:32 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-21 04:38:28 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-28 10:20:13 Error: [MissingControllerException] Controller class Xmlrpc.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Xmlrpc.phpController',
+  'plugin' => NULL,
+)
+Request URL: /xmlrpc.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-28 10:20:14 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-28 14:44:50 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-28 14:44:51 Error: [MissingControllerException] Controller class Xmlrpc.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Xmlrpc.phpController',
+  'plugin' => NULL,
+)
+Request URL: /xmlrpc.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-28 14:44:52 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-29 00:48:49 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-29 00:48:49 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-29 00:58:59 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-29 01:14:18 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-29 03:47:09 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-29 03:47:09 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-29 03:57:09 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-29 04:02:10 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-30 07:59:57 Error: [MissingControllerException] Controller class Xmlrpc.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Xmlrpc.phpController',
+  'plugin' => NULL,
+)
+Request URL: /xmlrpc.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-30 07:59:58 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-08-31 22:07:37 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-01 19:30:59 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-02 11:46:32 Error: [MissingControllerException] Controller class License.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'License.txtController',
+  'plugin' => NULL,
+)
+Request URL: /license.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-04 17:45:04 Error: [MissingControllerException] Controller class Admin.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Admin.phpController',
+  'plugin' => NULL,
+)
+Request URL: /admin.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-04 17:45:05 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-04 17:45:05 Error: [MissingControllerException] Controller class Wp-login.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-login.phpController',
+  'plugin' => NULL,
+)
+Request URL: /wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-04 20:00:49 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-04 23:08:09 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-04 23:08:10 Error: [MissingControllerException] Controller class Xmlrpc.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Xmlrpc.phpController',
+  'plugin' => NULL,
+)
+Request URL: /xmlrpc.php?rsd=
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-04 23:08:11 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-04 23:08:11 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-04 23:08:11 Error: [MissingControllerException] Controller class WordpressController could not be found.
+Exception Attributes: array (
+  'class' => 'WordpressController',
+  'plugin' => NULL,
+)
+Request URL: /wordpress/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-04 23:08:12 Error: [MissingControllerException] Controller class WpController could not be found.
+Exception Attributes: array (
+  'class' => 'WpController',
+  'plugin' => NULL,
+)
+Request URL: /wp/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-06 15:41:48 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-06 16:00:55 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-06 23:07:58 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-06 23:07:58 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-06 23:18:17 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-06 23:38:47 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-07 00:14:18 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-07 00:14:18 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-07 00:19:17 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-07 00:24:28 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-07 11:27:37 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-07 19:31:16 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-11 17:45:33 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-15 05:25:32 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-15 07:39:11 Error: [MissingControllerException] Controller class Wp-includesController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-includesController',
+  'plugin' => NULL,
+)
+Request URL: /wp-includes/js/jquery/suggest.js
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 05:00:34 Error: [MissingControllerException] Controller class Wp-login.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-login.phpController',
+  'plugin' => NULL,
+)
+Request URL: /wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 12:44:11 Error: [MissingControllerException] Controller class WordpressController could not be found.
+Exception Attributes: array (
+  'class' => 'WordpressController',
+  'plugin' => NULL,
+)
+Request URL: /wordpress/wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 16:23:24 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 16:23:24 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 16:54:12 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 18:06:29 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 18:30:34 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 18:30:34 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 19:01:13 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 19:11:24 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 20:19:45 Error: [MissingControllerException] Controller class WpController could not be found.
+Exception Attributes: array (
+  'class' => 'WpController',
+  'plugin' => NULL,
+)
+Request URL: /wp/wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-16 21:57:04 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-17 03:26:38 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-17 04:24:28 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-19 10:44:57 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-19 10:44:57 Error: [MissingControllerException] Controller class Sitemap.xmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Sitemap.xmlController',
+  'plugin' => NULL,
+)
+Request URL: /sitemap.xml
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-22 18:42:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/img/boxed-bg.jpg
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-25 17:52:28 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-26 12:25:47 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-26 12:25:47 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-26 12:30:44 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-26 14:33:03 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-26 15:08:54 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-26 15:08:55 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-26 17:26:04 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-26 17:36:04 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-26 18:08:10 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-26 20:21:36 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-27 02:01:27 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-27 07:21:13 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-28 00:24:20 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-30 11:08:46 Error: [MissingControllerException] Controller class WordpressController could not be found.
+Exception Attributes: array (
+  'class' => 'WordpressController',
+  'plugin' => NULL,
+)
+Request URL: /wordpress
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-09-30 19:20:09 Error: [MissingControllerException] Controller class LICENSE.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'LICENSE.phpController',
+  'plugin' => NULL,
+)
+Request URL: /LICENSE.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-02 11:58:49 Error: [MissingControllerException] Controller class Wp-login.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-login.phpController',
+  'plugin' => NULL,
+)
+Request URL: /wp-login.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-03 03:25:54 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-03 03:26:17 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-03 04:00:16 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-03 14:44:54 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-04 01:32:52 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/ct/v1/sct-feedback
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-04 01:32:53 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/ct/v1/sct-gossip
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-04 01:32:53 Error: [MissingControllerException] Controller class CtController could not be found.
+Exception Attributes: array (
+  'class' => 'CtController',
+  'plugin' => NULL,
+)
+Request URL: /ct/v1/sct-gossip
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-04 01:32:53 Error: [MissingControllerException] Controller class CtController could not be found.
+Exception Attributes: array (
+  'class' => 'CtController',
+  'plugin' => NULL,
+)
+Request URL: /ct/v1/sth-gossip
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-04 01:32:53 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/ct/v1/collected-sct-feedback
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-04 01:32:54 Error: [MissingControllerException] Controller class CtController could not be found.
+Exception Attributes: array (
+  'class' => 'CtController',
+  'plugin' => NULL,
+)
+Request URL: /ct/v1/sct-feedback
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-04 01:32:54 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/ct/v1/sth-pollination
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-04 01:32:54 Error: [MissingControllerException] Controller class TopleveldirController could not be found.
+Exception Attributes: array (
+  'class' => 'TopleveldirController',
+  'plugin' => NULL,
+)
+Request URL: /topleveldir/subdir/research-feedback
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-04 05:41:43 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-05 03:27:01 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-05 03:27:02 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-05 03:37:06 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-05 05:29:07 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-05 06:30:25 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-05 06:30:25 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-05 12:57:26 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-05 13:23:07 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-06 22:20:52 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-08 15:42:56 Error: [MissingControllerException] Controller class WpController could not be found.
+Exception Attributes: array (
+  'class' => 'WpController',
+  'plugin' => NULL,
+)
+Request URL: /wp/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-08 15:42:56 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-08 15:42:56 Error: [MissingControllerException] Controller class OldController could not be found.
+Exception Attributes: array (
+  'class' => 'OldController',
+  'plugin' => NULL,
+)
+Request URL: /old/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-08 15:42:56 Error: [MissingControllerException] Controller class WordpressController could not be found.
+Exception Attributes: array (
+  'class' => 'WordpressController',
+  'plugin' => NULL,
+)
+Request URL: /wordpress/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-08 20:26:45 Error: [MissingControllerException] Controller class BetaController could not be found.
+Exception Attributes: array (
+  'class' => 'BetaController',
+  'plugin' => NULL,
+)
+Request URL: /beta/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-08 20:26:45 Error: [MissingControllerException] Controller class BlogsController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogsController',
+  'plugin' => NULL,
+)
+Request URL: /blogs/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-10 08:27:41 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-11 03:44:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/img/boxed-bg.jpg
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-12 21:48:44 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-13 17:58:01 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-13 18:56:25 Error: [MissingControllerException] Controller class BetaController could not be found.
+Exception Attributes: array (
+  'class' => 'BetaController',
+  'plugin' => NULL,
+)
+Request URL: /beta/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-13 18:56:25 Error: [MissingControllerException] Controller class BlogsController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogsController',
+  'plugin' => NULL,
+)
+Request URL: /blogs/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-13 18:56:25 Error: [MissingControllerException] Controller class Wp-adminController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-adminController',
+  'plugin' => NULL,
+)
+Request URL: /wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-13 18:56:25 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/wordpress/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-13 18:56:25 Error: [MissingControllerException] Controller class SiteController could not be found.
+Exception Attributes: array (
+  'class' => 'SiteController',
+  'plugin' => NULL,
+)
+Request URL: /site/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-13 18:56:25 Error: [MissingControllerException] Controller class CmsController could not be found.
+Exception Attributes: array (
+  'class' => 'CmsController',
+  'plugin' => NULL,
+)
+Request URL: /cms/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-14 08:57:42 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-14 08:57:42 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-14 09:02:41 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-14 09:13:06 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-14 09:23:21 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-14 09:23:22 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-14 12:07:01 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-14 12:17:12 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-14 22:35:04 Error: [MissingControllerException] Controller class Xmlrpc.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Xmlrpc.phpController',
+  'plugin' => NULL,
+)
+Request URL: /xmlrpc.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-17 00:59:34 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-17 11:35:57 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-19 09:30:45 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-19 20:33:05 Error: [MissingControllerException] Controller class BetaController could not be found.
+Exception Attributes: array (
+  'class' => 'BetaController',
+  'plugin' => NULL,
+)
+Request URL: /beta/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-19 20:33:05 Error: [MissingControllerException] Controller class BlogsController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogsController',
+  'plugin' => NULL,
+)
+Request URL: /blogs/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-19 20:33:05 Error: [MissingControllerException] Controller class Wp-adminController could not be found.
+Exception Attributes: array (
+  'class' => 'Wp-adminController',
+  'plugin' => NULL,
+)
+Request URL: /wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-19 20:33:05 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/wordpress/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-19 20:33:05 Error: [MissingControllerException] Controller class CmsController could not be found.
+Exception Attributes: array (
+  'class' => 'CmsController',
+  'plugin' => NULL,
+)
+Request URL: /cms/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-19 20:33:05 Error: [MissingControllerException] Controller class SiteController could not be found.
+Exception Attributes: array (
+  'class' => 'SiteController',
+  'plugin' => NULL,
+)
+Request URL: /site/wp-admin/setup-config.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-19 21:05:14 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-20 00:22:37 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-20 12:06:07 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-21 05:00:05 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-21 05:36:22 Error: [MissingControllerException] Controller class AdministratorController could not be found.
+Exception Attributes: array (
+  'class' => 'AdministratorController',
+  'plugin' => NULL,
+)
+Request URL: /administrator/index.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-22 03:32:57 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-22 14:43:59 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-22 14:43:59 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-22 15:24:48 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-22 15:29:58 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-22 15:55:28 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-22 15:55:29 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-22 19:44:31 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-22 19:54:38 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-29 01:28:07 Error: [MissingControllerException] Controller class Dumper.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Dumper.phpController',
+  'plugin' => NULL,
+)
+Request URL: /dumper.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-29 01:28:08 Error: [MissingControllerException] Controller class DumperController could not be found.
+Exception Attributes: array (
+  'class' => 'DumperController',
+  'plugin' => NULL,
+)
+Request URL: /dumper/dumper.php
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-29 03:37:13 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-29 03:37:14 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-29 03:43:42 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-29 03:57:32 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-29 04:02:46 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-29 04:02:46 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/assetlinks.json
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-29 04:48:50 Error: [MissingControllerException] Controller class .well-knownController could not be found.
+Exception Attributes: array (
+  'class' => '.well-knownController',
+  'plugin' => NULL,
+)
+Request URL: /.well-known/apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-29 04:53:55 Error: [MissingControllerException] Controller class Apple-app-site-associationController could not be found.
+Exception Attributes: array (
+  'class' => 'Apple-app-site-associationController',
+  'plugin' => NULL,
+)
+Request URL: /apple-app-site-association
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-30 01:29:46 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-10-30 01:29:46 Error: [MissingControllerException] Controller class Sitemap.xmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Sitemap.xmlController',
+  'plugin' => NULL,
+)
+Request URL: /sitemap.xml
+Stack Trace:
+#0 /home/strategee/analyzer.strategee.us/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-08-09 16:33:30 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'analizer_strateg\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /Berf/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Model.php(3288): ConnectionManager::getDataSource('default')
+#3 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Model.php(1107): Model->setDataSource('default')
+#4 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Model.php(3310): Model->setSource('users')
+#5 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Model.php(1318): Model->getDataSource()
+#6 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#7 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('User', 'fields')
+#8 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/View/Helper/CakeStrapFormHelper.php(19): FormHelper->create('User', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/View/Elements/form_login.ctp(7): CakeStrapFormHelper->create('User', Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(931): include('/Applications/X...')
+#11 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(893): View->_evaluate('/Applications/X...', Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(1191): View->_render('/Applications/X...', Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(408): View->_renderElement('/Applications/X...', Array, Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/View/Users/login.ctp(2): View->element('form_login')
+#15 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(931): include('/Applications/X...')
+#16 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(893): View->_evaluate('/Applications/X...', Array)
+#17 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(462): View->_render('/Applications/X...')
+#18 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#19 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#20 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#21 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#22 {main}
+2018-08-09 16:53:08 Error: [MissingTableException] Table revisados for model Revisado was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'revisados',
+  'class' => 'Revisado',
+  'ds' => 'default',
+)
+Request URL: /Berf/preguntas/nueva_revision
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Model.php(3310): Model->setSource('revisados')
+#1 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Model.php(1318): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('Revisado', 'fields')
+#4 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/View/Helper/CakeStrapFormHelper.php(19): FormHelper->create('Revisado', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/View/Preguntas/nueva_revision.ctp(8): CakeStrapFormHelper->create('Revisado', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(931): include('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(893): View->_evaluate('/Applications/X...', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(462): View->_render('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#10 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#11 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PreguntasController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2018-08-09 16:53:58 Error: [MissingTableException] Table revisados for model Revisado was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'revisados',
+  'class' => 'Revisado',
+  'ds' => 'default',
+)
+Request URL: /Berf/preguntas/nueva_revision
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Model.php(3310): Model->setSource('revisados')
+#1 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Model.php(1318): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('Revisado', 'fields')
+#4 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/View/Helper/CakeStrapFormHelper.php(19): FormHelper->create('Revisado', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/View/Preguntas/nueva_revision.ctp(8): CakeStrapFormHelper->create('Revisado', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(931): include('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(893): View->_evaluate('/Applications/X...', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(462): View->_render('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#10 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#11 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PreguntasController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2018-08-09 16:53:58 Error: [MissingTableException] Table revisados for model Revisado was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'revisados',
+  'class' => 'Revisado',
+  'ds' => 'default',
+)
+Request URL: /Berf/preguntas/nueva_revision
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Model.php(3310): Model->setSource('revisados')
+#1 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Model/Model.php(1318): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('Revisado', 'fields')
+#4 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/View/Helper/CakeStrapFormHelper.php(19): FormHelper->create('Revisado', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/View/Preguntas/nueva_revision.ctp(8): CakeStrapFormHelper->create('Revisado', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(931): include('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(893): View->_evaluate('/Applications/X...', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/View/View.php(462): View->_render('/Applications/X...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#10 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#11 /Applications/XAMPP/xamppfiles/htdocs/Berf/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PreguntasController), Object(CakeRequest), Object(CakeResponse))
+#12 /Applications/XAMPP/xamppfiles/htdocs/Berf/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2018-08-10 09:45:11 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'root\'@\'localhost\' (using password: NO)',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/html/barf/html/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /var/www/html/barf/html/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /var/www/html/barf/html/lib/Cake/Model/Model.php(3288): ConnectionManager::getDataSource('default')
+#3 /var/www/html/barf/html/lib/Cake/Model/Model.php(1107): Model->setDataSource('default')
+#4 /var/www/html/barf/html/lib/Cake/Model/Model.php(3310): Model->setSource('users')
+#5 /var/www/html/barf/html/lib/Cake/Model/Model.php(1318): Model->getDataSource()
+#6 /var/www/html/barf/html/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#7 /var/www/html/barf/html/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('User', 'fields')
+#8 /var/www/html/barf/html/app/View/Helper/CakeStrapFormHelper.php(19): FormHelper->create('User', Array)
+#9 /var/www/html/barf/html/app/View/Elements/form_login.ctp(7): CakeStrapFormHelper->create('User', Array)
+#10 /var/www/html/barf/html/lib/Cake/View/View.php(931): include('/var/www/html/b...')
+#11 /var/www/html/barf/html/lib/Cake/View/View.php(893): View->_evaluate('/var/www/html/b...', Array)
+#12 /var/www/html/barf/html/lib/Cake/View/View.php(1191): View->_render('/var/www/html/b...', Array)
+#13 /var/www/html/barf/html/lib/Cake/View/View.php(408): View->_renderElement('/var/www/html/b...', Array, Array)
+#14 /var/www/html/barf/html/app/View/Users/login.ctp(2): View->element('form_login')
+#15 /var/www/html/barf/html/lib/Cake/View/View.php(931): include('/var/www/html/b...')
+#16 /var/www/html/barf/html/lib/Cake/View/View.php(893): View->_evaluate('/var/www/html/b...', Array)
+#17 /var/www/html/barf/html/lib/Cake/View/View.php(462): View->_render('/var/www/html/b...')
+#18 /var/www/html/barf/html/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#19 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#20 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#21 /var/www/html/barf/html/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#22 /var/www/html/barf/html/index.php(43): require('/var/www/html/b...')
+#23 {main}
+2018-08-10 09:45:13 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'root\'@\'localhost\' (using password: NO)',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 /var/www/html/barf/html/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /var/www/html/barf/html/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /var/www/html/barf/html/lib/Cake/Model/Model.php(3288): ConnectionManager::getDataSource('default')
+#3 /var/www/html/barf/html/lib/Cake/Model/Model.php(1107): Model->setDataSource('default')
+#4 /var/www/html/barf/html/lib/Cake/Model/Model.php(3310): Model->setSource('users')
+#5 /var/www/html/barf/html/lib/Cake/Model/Model.php(1318): Model->getDataSource()
+#6 /var/www/html/barf/html/lib/Cake/View/Helper/FormHelper.php(199): Model->schema()
+#7 /var/www/html/barf/html/lib/Cake/View/Helper/FormHelper.php(451): FormHelper->_introspectModel('User', 'fields')
+#8 /var/www/html/barf/html/app/View/Helper/CakeStrapFormHelper.php(19): FormHelper->create('User', Array)
+#9 /var/www/html/barf/html/app/View/Elements/form_login.ctp(7): CakeStrapFormHelper->create('User', Array)
+#10 /var/www/html/barf/html/lib/Cake/View/View.php(931): include('/var/www/html/b...')
+#11 /var/www/html/barf/html/lib/Cake/View/View.php(893): View->_evaluate('/var/www/html/b...', Array)
+#12 /var/www/html/barf/html/lib/Cake/View/View.php(1191): View->_render('/var/www/html/b...', Array)
+#13 /var/www/html/barf/html/lib/Cake/View/View.php(408): View->_renderElement('/var/www/html/b...', Array, Array)
+#14 /var/www/html/barf/html/app/View/Users/login.ctp(2): View->element('form_login')
+#15 /var/www/html/barf/html/lib/Cake/View/View.php(931): include('/var/www/html/b...')
+#16 /var/www/html/barf/html/lib/Cake/View/View.php(893): View->_evaluate('/var/www/html/b...', Array)
+#17 /var/www/html/barf/html/lib/Cake/View/View.php(462): View->_render('/var/www/html/b...')
+#18 /var/www/html/barf/html/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#19 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#20 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#21 /var/www/html/barf/html/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#22 /var/www/html/barf/html/index.php(43): require('/var/www/html/b...')
+#23 {main}
+2018-08-10 10:14:00 Error: [SocketException] Could not send email.
+Request URL: /users/add
+Stack Trace:
+#0 /var/www/html/barf/html/lib/Cake/Network/Email/MailTransport.php(47): MailTransport->_mail('yeisonmejia@str...', '=?UTF-8?B?Q29uZ...', '<!DOCTYPE html ...', 'From: Barf <it@...', NULL)
+#1 /var/www/html/barf/html/lib/Cake/Network/Email/CakeEmail.php(1118): MailTransport->send(Object(CakeEmail))
+#2 /var/www/html/barf/html/app/Controller/AppController.php(66): CakeEmail->send()
+#3 /var/www/html/barf/html/app/Controller/UsersController.php(81): AppController->sendMail(Array)
+#4 [internal function]: UsersController->add()
+#5 /var/www/html/barf/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/html/barf/html/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2018-08-10 10:17:13 Error: [SocketException] Could not send email.
+Request URL: /users/add
+Stack Trace:
+#0 /var/www/html/barf/html/lib/Cake/Network/Email/MailTransport.php(47): MailTransport->_mail('yeisonmejia@str...', '=?UTF-8?B?Q29uZ...', '<!DOCTYPE html ...', 'From: Barf <it@...', NULL)
+#1 /var/www/html/barf/html/lib/Cake/Network/Email/CakeEmail.php(1118): MailTransport->send(Object(CakeEmail))
+#2 /var/www/html/barf/html/app/Controller/AppController.php(66): CakeEmail->send()
+#3 /var/www/html/barf/html/app/Controller/UsersController.php(81): AppController->sendMail(Array)
+#4 [internal function]: UsersController->add()
+#5 /var/www/html/barf/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/html/barf/html/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2018-08-10 10:18:16 Error: [SocketException] Could not send email.
+Request URL: /users/add
+Stack Trace:
+#0 /var/www/html/barf/html/lib/Cake/Network/Email/MailTransport.php(47): MailTransport->_mail('yeisonmejia@str...', '=?UTF-8?B?Q29uZ...', '<!DOCTYPE html ...', 'From: Barf <it@...', NULL)
+#1 /var/www/html/barf/html/lib/Cake/Network/Email/CakeEmail.php(1118): MailTransport->send(Object(CakeEmail))
+#2 /var/www/html/barf/html/app/Controller/AppController.php(66): CakeEmail->send()
+#3 /var/www/html/barf/html/app/Controller/UsersController.php(81): AppController->sendMail(Array)
+#4 [internal function]: UsersController->add()
+#5 /var/www/html/barf/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/html/barf/html/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2018-08-10 10:18:45 Error: [SocketException] Connection refused
+Request URL: /users/add
+Stack Trace:
+#0 /var/www/html/barf/html/lib/Cake/Network/Email/SmtpTransport.php(101): CakeSocket->connect()
+#1 /var/www/html/barf/html/lib/Cake/Network/Email/SmtpTransport.php(61): SmtpTransport->_connect()
+#2 /var/www/html/barf/html/lib/Cake/Network/Email/CakeEmail.php(1118): SmtpTransport->send(Object(CakeEmail))
+#3 /var/www/html/barf/html/app/Controller/AppController.php(66): CakeEmail->send()
+#4 /var/www/html/barf/html/app/Controller/UsersController.php(81): AppController->sendMail(Array)
+#5 [internal function]: UsersController->add()
+#6 /var/www/html/barf/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/html/barf/html/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2018-08-10 10:19:17 Error: [SocketException] Connection refused
+Request URL: /users/add
+Stack Trace:
+#0 /var/www/html/barf/html/lib/Cake/Network/Email/SmtpTransport.php(101): CakeSocket->connect()
+#1 /var/www/html/barf/html/lib/Cake/Network/Email/SmtpTransport.php(61): SmtpTransport->_connect()
+#2 /var/www/html/barf/html/lib/Cake/Network/Email/CakeEmail.php(1118): SmtpTransport->send(Object(CakeEmail))
+#3 /var/www/html/barf/html/app/Controller/AppController.php(66): CakeEmail->send()
+#4 /var/www/html/barf/html/app/Controller/UsersController.php(81): AppController->sendMail(Array)
+#5 [internal function]: UsersController->add()
+#6 /var/www/html/barf/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/html/barf/html/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2018-08-10 10:22:53 Error: [SocketException] SMTP Error: 454 4.7.1 <yeisonmejia@strategee.us>: Relay access denied
+Request URL: /users/add
+Stack Trace:
+#0 /var/www/html/barf/html/lib/Cake/Network/Email/SmtpTransport.php(175): SmtpTransport->_smtpSend('RCPT TO:<yeison...')
+#1 /var/www/html/barf/html/lib/Cake/Network/Email/SmtpTransport.php(63): SmtpTransport->_sendRcpt()
+#2 /var/www/html/barf/html/lib/Cake/Network/Email/CakeEmail.php(1118): SmtpTransport->send(Object(CakeEmail))
+#3 /var/www/html/barf/html/app/Controller/AppController.php(66): CakeEmail->send()
+#4 /var/www/html/barf/html/app/Controller/UsersController.php(81): AppController->sendMail(Array)
+#5 [internal function]: UsersController->add()
+#6 /var/www/html/barf/html/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/html/barf/html/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/html/barf/html/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2019-02-06 20:41:36 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\todolist\app\Controller\UsersController.php, line 149]
+2019-02-06 20:41:36 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /todolist/users/add
+Stack Trace:
+#0 C:\xampp\htdocs\todolist\lib\Cake\Error\ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 149)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 149, Array)
+#2 C:\xampp\htdocs\todolist\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 149, Array)
+#3 C:\xampp\htdocs\todolist\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
